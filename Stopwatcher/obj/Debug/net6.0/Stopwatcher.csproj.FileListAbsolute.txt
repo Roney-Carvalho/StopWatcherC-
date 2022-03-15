@@ -1,0 +1,15 @@
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\Stopwatcher.exe
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\Stopwatcher.deps.json
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\Stopwatcher.runtimeconfig.json
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\Stopwatcher.dll
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\ref\Stopwatcher.dll
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\bin\Debug\net6.0\Stopwatcher.pdb
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.csproj.AssemblyReference.cache
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.AssemblyInfoInputs.cache
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.AssemblyInfo.cs
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.csproj.CoreCompileInputs.cache
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.dll
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\ref\Stopwatcher.dll
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.pdb
+C:\Users\roney\Documents\VSCode\C#\Stopwatcher\obj\Debug\net6.0\Stopwatcher.genruntimeconfig.cache
